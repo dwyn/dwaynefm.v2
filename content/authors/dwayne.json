@@ -1,0 +1,21 @@
+{
+  "name": "dwayne.",
+  "title": "Creative Technologist",
+  "description": "evenly odd.",
+  "thumbnail": "dwayne.png",
+  "social": [
+    {
+      "name": "Instagram",
+      "url": "https://instagram.com/dwyn"
+    },
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/dwyn"
+    },
+    {
+      "name": "Website",
+      "url": "https://dwayne.fm"
+    }
+  ],
+  "skills": ["Creator"]
+}
